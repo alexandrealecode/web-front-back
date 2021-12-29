@@ -1,0 +1,7 @@
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/js/bootstrap.js'
+import 'jquery/dist/jquery.js'
+import 'popper.js/dist/popper.js'
+import 'animate.css/animate.css'
+import 'font-awesome/css/font-awesome.css'
+import 'font-awesome/css/font-awesome.min.css'
